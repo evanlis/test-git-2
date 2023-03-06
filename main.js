@@ -1,1 +1,1 @@
-console.log('Privet в ветке developer')
+console.log('Privet в ветке developerr')
